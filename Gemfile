@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'bootstrap-sass', '3.3.7'
 
 group :test do
   gem 'rails-controller-testing', '0.1.1'
